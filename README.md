@@ -79,5 +79,9 @@ Make sure to install any additional libraries that are used in the notebook.
 For any questions or feedback, please contact Scott Bradley at bradley.7176@att.net, Kyle Kerner at kernerkyle12@gmail.com, or 
 Walter Hickman at walter.hickman@gmail.com
 
+
+## References 
+Baseball-Reference: This is one of the most comprehensive sources for historical baseball data, including player statistics, team records, and box scores. You can access it at baseball-reference.com. 
+
 ---
 
