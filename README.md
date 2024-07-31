@@ -71,6 +71,7 @@ The notebook likely uses the following Python libraries (based on common data an
 - matplotlib
 - seaborn
 - scikit-learn
+- Vader
 
 Make sure to install any additional libraries that are used in the notebook.
 
@@ -81,7 +82,7 @@ Walter Hickman at walter.hickman@gmail.com
 
 
 ## References 
-Baseball-Reference: This is one of the most comprehensive sources for historical baseball data, including player statistics, team records, and box scores. You can access it at baseball-reference.com. 
+Baseball-Reference: This is one of the most comprehensive sources for historical baseball data, including player statistics, team records, and box scores. You can access it at baseball-reference.com and https://www.thetoptens.com/baseball/favorite-major-league-baseball-team/
 
 ---
 
