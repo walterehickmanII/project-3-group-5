@@ -49,13 +49,14 @@ This project contains a Jupyter Notebook with a detailed analysis. The notebook 
      ```
 
 2. **Open the Notebook**
+   - Open google colab or 
    - Launch Jupyter Notebook from your terminal:
      ```sh
-     jupyter notebook
+     jupyter notebook 
      ```
    - Open the `project3.ipynb` file.
 
-3. **Run the Cells**
+4. **Run the Cells**
    - Run each cell sequentially to reproduce the analysis.
 
 ## Files Included
